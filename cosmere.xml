@@ -234,8 +234,8 @@ Whenever you cast a creature spell, create a 1/1 red Arleon Soldier creature tok
     <loyalty>4</loyalty>
   </prop>
   <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Selvala,%20Eager%20Trailblazer.jpg?raw=true">PIM1</set>
-  <related>Selvala, Eager Trailblazer</related>
-  <related>Arelon Soldier</related>
+  <related>Selvala, Eager Trailblazer
+  Arelon Soldier</related>
   <tablerow>3</tablerow>
 </card>
 
@@ -1015,6 +1015,353 @@ Any number of target nonland permanents you control phase out. (Treat them and a
   <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Clever%20Concealment.jpg?raw=true">PIM1</set>
   <related>Clever Concealment</related>
   <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Perpendicularity</name>
+  <text>If you control a commander, you may cast this spell without paying its mana cost.
+Creatures you control gain indestructible until end of turn.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Instant</type>
+    <maintype>Instant</maintype>
+    <manacost>{2}{W}</manacost>
+    <cmc>3</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Flawless%20Maneuver.jpg?raw=true">PIM1</set>
+  <related>Flawless Maneuver</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Rayse's Arrogance</name>
+  <text>Exile target creature. Its controller gains life equal to its power.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Instant</type>
+    <maintype>Instant</maintype>
+    <manacost>{W}</manacost>
+    <cmc>1</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Swords%20to%20Plowshares.jpg?raw=true">PIM1</set>
+  <related>Swords to Plowshares</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Just Awsome!</name>
+  <text>Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue "Chicken" creature token with flying.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Instant</type>
+    <maintype>Instant</maintype>
+    <manacost>{U}</manacost>
+    <cmc>1</cmc>
+    <colors>U</colors>
+    <coloridentity>U</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Swan%20Song.jpg?raw=true">PIM1</set>
+  <related>Swan Song</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Death of a Tyrant</name>
+  <text>Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Instant</type>
+    <maintype>Instant</maintype>
+    <manacost>{W}</manacost>
+    <cmc>1</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Path%20to%20Exile.jpg?raw=true">PIM1</set>
+  <related>Path to Exile</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Atium Flare</name>
+  <text>Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)
+Target creature phases out. If this spell was kicked, each creature target player controls phases out instead. (Treat phased-out creatures and anything attached to them as though they don't exist until their controller's next turn.)</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Instant</type>
+    <maintype>Instant</maintype>
+    <manacost>{W}</manacost>
+    <cmc>1</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Galadriel's%20Dismissal.jpg?raw=true">PIM1</set>
+  <related>Galadriel's Dismissal</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>The Shattering of Adonalsium</name>
+  <text>Choose one or more —
+• Exile all artifacts.
+• Exile all creatures.
+• Exile all enchantments.
+• Exile all graveyards.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Sorcery</type>
+    <maintype>Sorcery</maintype>
+    <manacost>{4}{W}{W}</manacost>
+    <cmc>6</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Farewell.jpg?raw=true">PIM1</set>
+  <related>Farewell</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Venli, the Last Listener</name>
+  <text>Legendary Humans you control have indestructible.
+{2}{W}{B}: Exile target card from a graveyard. If it was a creature card, create a 1/1 white Singer Warrior creature token.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — Listener Radiant</type>
+    <maintype>Creature — Human Soldier</maintype>
+    <manacost>{W}{B}</manacost>
+    <cmc>2</cmc>
+    <colors>WB</colors>
+    <coloridentity>WB</coloridentity>
+    <pt>2/3</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Venli%202.png?raw=true">PIM1</set>
+  <related>General's Enforcer</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Lightweave Planning</name>
+  <text>Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Enchantment</type>
+    <maintype>Enchantment</maintype>
+    <manacost>{U}</manacost>
+    <cmc>1</cmc>
+    <colors>U</colors>
+    <coloridentity>U</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Training%20Grounds.jpg?raw=true">PIM1</set>
+  <related>Training Grounds</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Plans Within Plans</name>
+  <text>At the beginning of your first main phase, choose one or more —
+• Sell Contraband — Create a Treasure token. You lose 1 life.
+• Buy Information — Draw a card. You lose 2 life.
+• Hire a Mercenary — Create a 3/2 colorless Kandra creature token with changeling. You lose 3 life. (It is every creature type.)</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Enchantment</type>
+    <maintype>Enchantment</maintype>
+    <manacost>{2}{B}</manacost>
+    <cmc>3</cmc>
+    <colors>B</colors>
+    <coloridentity>B</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Black%20Market%20Connections.jpg?raw=true">PIM1</set>
+  <related>Black Market Connections</related>
+  <tablerow>1</tablerow>
+</card>
+
+<card>
+  <name>Choosing a Side</name>
+  <text>As this enchantment enters, choose a creature type.
+Whenever a creature you control of the chosen type enters or attacks, draw a card.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Enchantment</type>
+    <maintype>Enchantment</maintype>
+    <manacost>{3}{U}{U}</manacost>
+    <cmc>5</cmc>
+    <colors>U</colors>
+    <coloridentity>U</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Kindred%20Discovery.jpg?raw=true">PIM1</set>
+  <related>Kindred Discovery</related>
+  <tablerow>1</tablerow>
+</card>
+
+<card>
+  <name>Artifabrian Inventions</name>
+  <text>{T}: Add {C}{C}.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Artifact</type>
+    <maintype>Artifact</maintype>
+    <manacost>{1}</manacost>
+    <cmc>1</cmc>
+    <colors></colors>
+    <coloridentity></coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Sol%20Ring.jpg?raw=true">PIM1</set>
+  <related>Sol Ring</related>
+  <tablerow>1</tablerow>
+</card>
+
+<card>
+  <name>Soulcaster</name>
+  <text>{T}: Add one mana of any color in your commander's color identity.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Artifact</type>
+    <maintype>Artifact</maintype>
+    <manacost>{2}</manacost>
+    <cmc>2</cmc>
+    <colors></colors>
+    <coloridentity></coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Arcane%20Signet.jpg?raw=true">PIM1</set>
+  <related>Arcane Signet</related>
+  <tablerow>1</tablerow>
+</card>
+
+<card>
+  <name>The Way of King</name>
+  <text>Activated abilities of creatures cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Artifact</type>
+    <maintype>Artifact</maintype>
+    <manacost>{3}</manacost>
+    <cmc>3</cmc>
+    <colors></colors>
+    <coloridentity></coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Heartstone.jpg?raw=true">PIM1</set>
+  <related>Heartstone</related>
+  <tablerow>1</tablerow>
+</card>
+
+<card>
+  <name>Wayne, Terrisborn</name>
+  <text>Haste
+When Wayne enters, exile target creature an opponent controls with greater power. Legendary creatures you control gain protection from each of that creature's colors until end of turn.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Allomancer</type>
+    <maintype>Legendary Creature — Human Allomancer</maintype>
+    <manacost>{2}{R}{W}</manacost>
+    <cmc>4</cmc>
+    <colors>WR</colors>
+    <coloridentity>WR</coloridentity>
+    <pt>3/4</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/%C3%89owyn,%20Fearless%20Knight.jpg?raw=true">PIM1</set>
+  <related>Éowyn, Fearless Knight</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Highstorm</name>
+  <text>Exile target creature you don't control. For each creature exiled this way, its controller searches their library for a basic land card. Those players put those cards onto the battlefield tapped, then shuffle.
+Overload {4}{W}{W} (You may cast this spell for its overload cost. If you do, change "target" in its text to "each.")</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Sorcery</type>
+    <maintype>Sorcery</maintype>
+    <manacost>{1}{W}</manacost>
+    <cmc>2</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Winds%20of%20Abandon.jpg?raw=true">PIM1</set>
+  <related>Winds of Abandon</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Shamefull Act</name>
+  <text>Goad all creatures your opponents control. Until your next turn, those creatures can't block. (Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Sorcery</type>
+    <maintype>Sorcery</maintype>
+    <manacost>{3}{R}{W}</manacost>
+    <cmc>5</cmc>
+    <colors>WR</colors>
+    <coloridentity>WR</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Taunt%20from%20the%20Rampart.jpg?raw=true">PIM1</set>
+  <related>Taunt from the Rampart</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Nightblood</name>
+  <text></text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Emblem</type>
+    <maintype>Emblem</maintype>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Marsh%20Goblins.jpg?raw=true">PIM1</set>
+  <related>The Ring Tempts You</related>
+  <tablerow>1</tablerow>
 </card>
 
 </cards>
