@@ -52,6 +52,971 @@
   <tablerow>3</tablerow>
 </card>
 
+<card>
+  <name>Pattern, Cryptic Criptid</name>
+  <text>{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can't be countered.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — God Splinter</type>
+    <maintype>Creature — God Splinter</maintype>
+    <manacost>{G}</manacost>
+    <cmc>1</cmc>
+    <colors>G</colors>
+    <coloridentity>G</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Delighted%20Halfling.jpg?raw=true">PIM1</set>
+  <related>Delighted Halfling</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Tress, Hopeful Adventurer</name>
+  <text>Artifacts your opponents control enter tapped.
+{X}{X}{W}, Sacrifice this creature: Destroy each artifact with mana value X.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — Human Artificer</type>
+    <maintype>Creature — Human Artificer</maintype>
+    <manacost>{1}{W}</manacost>
+    <cmc>2</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Dauntless%20Dismantler.jpg?raw=true">PIM1</set>
+  <related>Dauntless Dismantler</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Huck, Loyal Companion</name>
+  <text>{T}: Add {W}.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — Human Rat</type>
+    <maintype>Creature — Human Rat</maintype>
+    <manacost>{G}</manacost>
+    <cmc>1</cmc>
+    <colors>G</colors>
+    <coloridentity>WG</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Avacyn's%20Pilgrim.jpg?raw=true">PIM1</set>
+  <related>Avacyn's Pilgrim</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Princess Sarene</name>
+  <text>{T}: Target creature you control gains protection from the color of your choice until end of turn.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — Human Noble</type>
+    <maintype>Creature — Human Noble</maintype>
+    <manacost>{W}</manacost>
+    <cmc>1</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Mother%20of%20Runes.jpg?raw=true">PIM1</set>
+  <related>Mother of Runes</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Hrathen, Forsaken Gyorn</name>
+  <text>Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is this creature's power.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Artifact Creature — Human Noble Cleric</type>
+    <maintype>Artifact Creature — Human Noble Cleric</maintype>
+    <manacost>{W}</manacost>
+    <cmc>1</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Esper%20Sentinel.jpg?raw=true">PIM1</set>
+  <related>Esper Sentinel</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Navani Kholin, Artifabrian</name>
+  <text>Activated abilities of creatures you control cost {X} less to activate, where X is Navani's power. This effect can't reduce the mana in that cost to less than one mana.
+{4}{R}{G}: Other creatures you control get +1/+1 and gain trample and haste until end of turn.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Noble Radiant</type>
+    <maintype>Legendary Creature — Human Noble Radiant</maintype>
+    <manacost>{R}{G}</manacost>
+    <cmc>2</cmc>
+    <colors>RG</colors>
+    <coloridentity>RG</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Agatha%20of%20the%20Vile%20Cauldron.jpg?raw=true">PIM1</set>
+  <related>Agatha of the Vile Cauldron</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Renatta, Reclusive Gunsmith</name>
+  <text>Each other Human you control gets +1/+0 and has ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — Human Artificer Allomancer</type>
+    <maintype>Creature — Human Artificer Allomancer</maintype>
+    <manacost>{1}{W}</manacost>
+    <cmc>2</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Coppercoat%20Vanguard.jpg?raw=true">PIM1</set>
+  <related>Coppercoat Vanguard</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>TenSoon, Contract Bound</name>
+  <text>Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{T}: The next time target creature adapts this turn, it adapts as though it had no +1/+1 counters on it.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — Dog Kandra</type>
+    <maintype>Creature — Dog Kandra</maintype>
+    <manacost>{G}{U}</manacost>
+    <cmc>2</cmc>
+    <colors>UG</colors>
+    <coloridentity>UG</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Biomancer's%20Familiar.jpg?raw=true">PIM1</set>
+  <related>Biomancer's Familiar</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Raoden, King of Arelon</name>
+  <text>Vigilance
+Whenever you cast a creature spell, create a 1/1 red Arleon Soldier creature token with "{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery."
+{T}: Choose a color. Add one mana of that color for each different power among creatures you control.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Noble</type>
+    <maintype>Legendary Creature — Human Noble</maintype>
+    <manacost>{2}{G}{W}</manacost>
+    <cmc>4</cmc>
+    <colors>WG</colors>
+    <coloridentity>WG</coloridentity>
+    <pt>0/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Selvala,%20Eager%20Trailblazer.jpg?raw=true">PIM1</set>
+  <related>Selvala, Eager Trailblazer</related>
+  <related>Arelon Soldier</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Arelon Soldier</name>
+  <text>{T} : Target creature you control gets +1/+0 until end of turn. Activate only as a Sorcery</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature Token — Human Mercenary</type>
+    <maintype>Creature Token— Human Mercenary</maintype>
+    <coloridentity>R</coloridentity>
+    <pt>1/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Arleon%20soldier.png?raw=true">PIM1</set>
+  <related>Mercenary</related>
+  <token>1</token>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Kenton, Lord Mastrell</name>
+  <text>Sacrifice Hajar: Legendary creatures you control get +1/+0 and gain indestructible until end of turn.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human</type>
+    <maintype>Legendary Creature — Human</maintype>
+    <manacost>{R}{G}</manacost>
+    <cmc>2</cmc>
+    <colors>RG</colors>
+    <coloridentity>RG</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Hajar,%20Loyal%20Bodyguard.jpg?raw=true">PIM1</set>
+  <related>Hajar, Loyal Bodyguard</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Sisirinah, Queen of Hallandren</name>
+  <text>When Sisirinah enters, exile target player's graveyard.
+Sacrifice Sisirinah: Humans you control gain hexproof and indestructible until end of turn.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Noble</type>
+    <maintype>Legendary Creature — Human Noble</maintype>
+    <manacost>{W}{B}</manacost>
+    <cmc>2</cmc>
+    <colors>WB</colors>
+    <coloridentity>WB</coloridentity>
+    <pt>2/2</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Jirina,%20Dauntless%20General.jpg?raw=true">PIM1</set>
+  <related>Jirina, Dauntless General</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Renarin, Corrupted Radiant</name>
+  <text>Protection from Gods
+Human creatures you control have "{T}: Add one mana of any of this creature's colors."
+{4}{G}{W}, {T}: Put a +1/+1 counter on each creature you control.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Noble Radiant</type>
+    <maintype>Legendary Creature — Human Noble Radiant</maintype>
+    <manacost>{G}{W}</manacost>
+    <cmc>2</cmc>
+    <colors>WG</colors>
+    <coloridentity>WG</coloridentity>
+    <pt>1/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Katilda,%20Dawnhart%20Prime.jpg?raw=true">PIM1</set>
+  <related>Katilda, Dawnhart Prime</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Shallan, One Who is Three</name>
+  <text>Each opponent can't cast noncreature spells with mana value greater than the number of lands that player controls.
+Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Noble Radiant</type>
+    <maintype>Legendary Creature — Human Noble Radiant</maintype>
+    <manacost>{W}{U}</manacost>
+    <cmc>2</cmc>
+    <colors>WU</colors>
+    <coloridentity>WU</coloridentity>
+    <pt>2/2</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Lavinia,%20Azorius%20Renegade.jpg?raw=true">PIM1</set>
+  <related>Lavinia, Azorius Renegade</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Yumi, the Yoki-hijo</name>
+  <text>Haste (This creature can attack and {T} as soon as it comes under your control.)
+Whenever Yumi attacks while you control a creature with power 4 or greater, Ruby gets +2/+2 until end of turn.
+{T}: Add {R} or {G}.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Cleric</type>
+    <maintype>Legendary Creature — Human Cleric</maintype>
+    <manacost>{R}{G}</manacost>
+    <cmc>2</cmc>
+    <colors>RG</colors>
+    <coloridentity>RG</coloridentity>
+    <pt>1/2</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Ruby,%20Daring%20Tracker.jpg?raw=true">PIM1</set>
+  <related>Ruby, Daring Tracker</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Nikaro, Nightmare Pianter</name>
+  <text>Companion — Each permanent card in your starting deck has an activated ability. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Abilities you activate that aren't mana abilities cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{1}, {T}: Target creature can't block this turn.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human</type>
+    <maintype>Legendary Creature — Human</maintype>
+    <manacost>{1}{R/W}{R/W}</manacost>
+    <cmc>3</cmc>
+    <colors>WR</colors>
+    <coloridentity>WR</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Zirda,%20the%20Dawnwaker.jpg?raw=true">PIM1</set>
+  <related>Zirda, the Dawnwaker</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Marasi Colms</name>
+  <text>When this creature enters, put a +1/+1 counter on each other Human you control.
+Whenever another Human you control enters, put a +1/+1 counter on this creature.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — Human Allomancer</type>
+    <maintype>Creature — Human Allomancer</maintype>
+    <manacost>{1}{W}</manacost>
+    <cmc>2</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>1/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Thalia's%20Lieutenant.jpg?raw=true">PIM1</set>
+  <related>Thalia's Lieutenant</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Adolin Kholin, Oathless Hero</name>
+  <text>Vigilance
+Adolin's power is equal to the number of creatures you control.
+Whenever you attack, for each opponent, create a 1/1 white Cobalt Guard creature token that's tapped and attacking that player or a planeswalker they control.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Noble Knight</type>
+    <maintype>Legendary Creature — Human Noble Knight</maintype>
+    <manacost>{1}{W}{W}</manacost>
+    <cmc>3</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>*/4</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Adeline,%20Resplendent%20Cathar.jpg?raw=true">PIM1</set>
+  <related>Adeline, Resplendent Cathar</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Vasher, the Sword Scholar</name>
+  <text>Vigilance
+Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell.
+Sacrifice Boromir: Creatures you control gain indestructible until end of turn. Nightblood tempts you.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Cleric</type>
+    <maintype>Legendary Creature — Human Cleric</maintype>
+    <manacost>{2}{W}</manacost>
+    <cmc>3</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Boromir,%20Warden%20of%20the%20Tower.jpg?raw=true">PIM1</set>
+  <related>Boromir, Warden of the Tower</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Vin, the Hero of Ages</name>
+  <text>Creatures with power less than this creature's power can't block creatures you control.
+Whenever another creature you control enters, put a +1/+1 counter on this creature.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — Human Allomancer</type>
+    <maintype>Creature — Human Allomancer</maintype>
+    <manacost>{1}{G}{G}</manacost>
+    <cmc>3</cmc>
+    <colors>G</colors>
+    <coloridentity>G</coloridentity>
+    <pt>1/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Champion%20of%20Lambholt.jpg?raw=true">PIM1</set>
+  <related>Champion of Lambholt</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Vire, Lord Silencer</name>
+  <text>Whenever Vire attacks, each opponent loses X life, where X is the number of other attacking creatures.
+Summary {2}, Sacrifice another creature: You gain 2 life and draw a card.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Mutant Radiant</type>
+    <maintype>Legendary Creature — Human Mutant Radiant</maintype>
+    <manacost>{1}{W}{B}</manacost>
+    <cmc>3</cmc>
+    <colors>WB</colors>
+    <coloridentity>WB</coloridentity>
+    <pt>2/2</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Commissar%20Severina%20Raine.jpg?raw=true">PIM1</set>
+  <related>Commissar Severina Raine</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Kelsier, Survivor of Hathsin</name>
+  <text>Other Humans you control get +1/+1.
+Whenever Kelsier or another Human you control enters, exile target card from an opponent's graveyard.
+{2}, Sacrifice two Humans: Destroy target creature with power 4 or greater.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Survivor Allomancer</type>
+    <maintype>Legendary Creature — Human Survivor Allomancer</maintype>
+    <manacost>{1}{W}{B}</manacost>
+    <cmc>3</cmc>
+    <colors>WB</colors>
+    <coloridentity>WB</coloridentity>
+    <pt>3/3</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/General%20Kudro%20of%20Drannith.jpg?raw=true">PIM1</set>
+  <related>General Kudro of Drannith</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Jasnah, Heretic Queen of Alethkar</name>
+  <text>Whenever you draw your second card each turn, create a 1/1 white Alethi Soldier creature token.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Noble Radiant</type>
+    <maintype>Legendary Creature — Human Noble Radiant</maintype>
+    <manacost>{W}{U}</manacost>
+    <cmc>2</cmc>
+    <colors>WU</colors>
+    <coloridentity>WU</coloridentity>
+    <pt>2/2</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Prince%20Imrahil%20the%20Fair.jpg?raw=true">PIM1</set>
+  <related>Prince Imrahil the Fair</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Marsh, Reluctant Inquisitor</name>
+  <text>Other creatures you control get +1/+0.
+Whenever a nontoken creature you control dies, Marsh deals 1 damage to any target.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Mutant Allomancer</type>
+    <maintype>Legendary Creature — Human Mutant Allomancer</maintype>
+    <manacost>{1}{B}{R}</manacost>
+    <cmc>3</cmc>
+    <colors>BR</colors>
+    <coloridentity>BR</coloridentity>
+    <pt>2/2</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Judith,%20the%20Scourge%20Diva.jpg?raw=true">PIM1</set>
+  <related>Judith, the Scourge Diva</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Wan ShaiLu, Soulstamp Carver</name>
+  <text>Vigilance
+When ShaiLu enters, destroy up to one target artifact or enchantment.
+{T}: You and target opponent each draw a card.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human</type>
+    <maintype>Legendary Creature — Human</maintype>
+    <manacost>{2}{W}</manacost>
+    <cmc>3</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <pt>2/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Loran%20of%20the%20Third%20Path.jpg?raw=true">PIM1</set>
+  <related>Loran of the Third Path</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Rysn Ftori, Dawnshard Merchant</name>
+  <text>Whenever you cast a legendary spell, draw a card.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Demigod</type>
+    <maintype>Legendary Creature — Human Demigod</maintype>
+    <manacost>{2}{G}</manacost>
+    <cmc>3</cmc>
+    <colors>G</colors>
+    <coloridentity>G</coloridentity>
+    <pt>1/2</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Reki,%20the%20History%20of%20Kamigawa.jpg?raw=true">PIM1</set>
+  <related>Reki, the History of Kamigawa</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Waxillum, the Dawnshot</name>
+  <text>Vigilance
+Whenever another Human you control enters, put a +1/+1 counter on this creature.
+{T}: Add X mana of any one color, where X is this creature's power.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — Human Allomancer</type>
+    <maintype>Creature — Human Allomancer</maintype>
+    <manacost>{2}{G}</manacost>
+    <cmc>3</cmc>
+    <colors>G</colors>
+    <coloridentity>G</coloridentity>
+    <pt>1/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Heronblade%20Elite.jpg?raw=true">PIM1</set>
+  <related>Heronblade Elite</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Sigzil, the Sunlit Man</name>
+  <text>Whenever Sigzil or another Human you control enters, target creature gains double strike until end of turn.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Demigod Nomad</type>
+    <maintype>Legendary Creature — Human Demigod Nomad</maintype>
+    <manacost>{1}{R}{W}</manacost>
+    <cmc>3</cmc>
+    <colors>WR</colors>
+    <coloridentity>WR</coloridentity>
+    <pt>2/3</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Th%C3%A9oden,%20King%20of%20Rohan.jpg?raw=true">PIM1</set>
+  <related>Théoden, King of Rohan</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Kaladin Stormblessed</name>
+  <text>Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
+Whenever you cast a creature spell, create a 1/1 green and white Human Bridge 4 member creature token with training.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Radiant</type>
+    <maintype>Legendary Creature — Human Radiant</maintype>
+    <manacost>{1}{G}{W}</manacost>
+    <cmc>3</cmc>
+    <colors>WG</colors>
+    <coloridentity>WG</coloridentity>
+    <pt>2/2</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Torens,%20Fist%20of%20the%20Angels.jpg?raw=true">PIM1</set>
+  <related>Torens, Fist of the Angels</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Elend Venture, the Last Emperor</name>
+  <text>Vigilance, lifelink
+When Elend enters, you become the monarch.
+Whenever Elend attacks, up to one target creature can't block this turn. If you're the monarch, creatures can't block this turn.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Noble Allomancer</type>
+    <maintype>Legendary Creature — Human Noble Allomancer</maintype>
+    <manacost>{1}{U}{R}{W}</manacost>
+    <cmc>4</cmc>
+    <colors>WUR</colors>
+    <coloridentity>WUR</coloridentity>
+    <pt>4/4</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Aragorn,%20King%20of%20Gondor.jpg?raw=true">PIM1</set>
+  <related>Aragorn, King of Gondor</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Khrissalla, Renowned Arcanist</name>
+  <text>Whenever you cast a white spell, create a 1/1 white Human Worldhopper creature token.
+Whenever you cast a blue spell, scry 2.
+Whenever you cast a red spell, Khrissalla deals 3 damage to target opponent.
+Whenever you cast a green spell, target creature gets +4/+4 until end of turn.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Scientist</type>
+    <maintype>Legendary Creature — Human Scientist</maintype>
+    <manacost>{R}{G}{W}{U}</manacost>
+    <cmc>4</cmc>
+    <colors>WURG</colors>
+    <coloridentity>WURG</coloridentity>
+    <pt>5/5</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Aragorn,%20the%20Uniter.jpg?raw=true">PIM1</set>
+  <related>Aragorn, the Uniter</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>The Sibling</name>
+  <text>Whenever The Sibling enters or attacks, look at the top six cards of your library. You may reveal a Human or artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — God Avatar</type>
+    <maintype>Legendary Creature — God Avatar</maintype>
+    <manacost>{2}{W}{U}</manacost>
+    <cmc>4</cmc>
+    <colors>WU</colors>
+    <coloridentity>WU</coloridentity>
+    <pt>3/4</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Boromir,%20Gondor's%20Hope.jpg?raw=true">PIM1</set>
+  <related>Boromir, Gondor's Hope</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Melaan</name>
+  <text>Flash
+When MeLaan enters, choose up to one —
+• Counter target spell, activated ability, or triggered ability. Its controller draws a card.
+• Destroy another target creature or planeswalker. Its controller draws a card.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Kandra</type>
+    <maintype>Legendary Creature — Human Kandra</maintype>
+    <manacost>{2}{U}{B}</manacost>
+    <cmc>4</cmc>
+    <colors>UB</colors>
+    <coloridentity>UB</coloridentity>
+    <pt>3/2</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Ertai%20Resurrected.jpg?raw=true">PIM1</set>
+  <related>Ertai Resurrected</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>The Stormfather</name>
+  <text>Creatures you control have vigilance and "{T}: Add one mana of any color. Spend this mana only to cast a creature spell."
+Whenever you cast a creature spell, if three or more mana from creatures was spent to cast it, draw a card.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — God Avatar</type>
+    <maintype>Legendary Creature — God Avatar</maintype>
+    <manacost>{2}{G}{U}</manacost>
+    <cmc>4</cmc>
+    <colors>UG</colors>
+    <coloridentity>UG</coloridentity>
+    <pt>4/4</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Inga%20and%20Esika.jpg?raw=true">PIM1</set>
+  <related>Inga and Esika</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Taravangian of the Diagram</name>
+  <text>Whenever a player draws their second card during their turn, you draw a card.
+Whenever a player casts their second spell during their turn, you create a 2/2 white Traitorous Soldier creature token.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Noble</type>
+    <maintype>Legendary Creature — Human Noble</maintype>
+    <manacost>{3}{W}{U}</manacost>
+    <cmc>5</cmc>
+    <colors>WU</colors>
+    <coloridentity>WU</coloridentity>
+    <pt>0/8</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/The%20Council%20of%20Four.jpg?raw=true">PIM1</set>
+  <related>The Council of Four</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Szeth, the Assassin in White</name>
+  <text>Flying, trample
+Humans you control get +1/+1.
+Coven — Whenever Szeth attacks, if you control three or more creatures with different powers, look at the top five cards of your library. You may reveal a Human creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Radiant Assassin</type>
+    <maintype>Legendary Creature — Human Radiant Assassin</maintype>
+    <manacost>{1}{G}{W}{W}</manacost>
+    <cmc>4</cmc>
+    <colors>WG</colors>
+    <coloridentity>WG</coloridentity>
+    <pt>4/4</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Sigarda,%20Champion%20of%20Light.jpg?raw=true">PIM1</set>
+  <related>Sigarda, Champion of Light</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Mistborn Assassins</name>
+  <text>First strike
+At the beginning of combat on your turn, if another Human entered the battlefield under your control this turn, create two 2/2 red Human Mistborn creature tokens with trample and haste. Then if you control six or more Humans, draw a card.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Allomancer Assassin</type>
+    <maintype>Legendary Creature — Human Allomancer Assassin</maintype>
+    <manacost>{2}{U}{R}{W}</manacost>
+    <cmc>5</cmc>
+    <colors>WUR</colors>
+    <coloridentity>WUR</coloridentity>
+    <pt>5/4</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/%C3%89owyn,%20Shieldmaiden.jpg?raw=true">PIM1</set>
+  <related>Éowyn, Shieldmaiden</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Knight Radiant</name>
+  <text>Affinity for Humans (This spell costs {1} less to cast for each Human you control.)
+Trample, haste
+At the beginning of your end step, if this creature attacked this turn, return it to its owner's hand. If you do, create a number of 1/1 white Human Knight Radiant creature tokens equal to its toughness.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — Human Radiant</type>
+    <maintype>Creature — Human Radiant</maintype>
+    <manacost>{6}{R}</manacost>
+    <cmc>7</cmc>
+    <colors>R</colors>
+    <coloridentity>R</coloridentity>
+    <pt>7/4</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Riders%20of%20the%20Mark.jpg?raw=true">PIM1</set>
+  <related>Riders of the Mark</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Lift, Cultivation's Edgedancer</name>
+  <text>Vigilance
+Whenever Lift enters or attacks, put a +1/+1 counter on each other creature you control. You gain 1 life for each other creature you control.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Radiant</type>
+    <maintype>Legendary Creature — Human Radiant</maintype>
+    <manacost>{4}{G}{W}</manacost>
+    <cmc>6</cmc>
+    <colors>WG</colors>
+    <coloridentity>WG</coloridentity>
+    <pt>3/6</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Aragorn%20and%20Arwen,%20Wed.jpg?raw=true">PIM1</set>
+  <related>Aragorn and Arwen, Wed</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>The Nightwatcher</name>
+  <text>Untap all permanents you control during each other player's untap step.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature — God Avatar</type>
+    <maintype>Creature — God Avatar</maintype>
+    <manacost>{3}{G}{G}</manacost>
+    <cmc>5</cmc>
+    <colors>G</colors>
+    <coloridentity>G</coloridentity>
+    <pt>2/4</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Seedborn%20Muse.jpg?raw=true">PIM1</set>
+  <related>Seedborn Muse</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Sazed, Holy First Witness</name>
+  <text>Whenever another Human you control enters, put a +1/+1 counter on Sazed.
+Other Humans you control get +1/+1 for each counter on Sazed.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Cleric Allumancer</type>
+    <maintype>Legendary Creature — Human Cleric Allumancer</maintype>
+    <manacost>{3}{G}{W}</manacost>
+    <cmc>5</cmc>
+    <colors>WG</colors>
+    <coloridentity>WG</coloridentity>
+    <pt>2/2</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Kyler,%20Sigardian%20Emissary.jpg?raw=true">PIM1</set>
+  <related>Kyler, Sigardian Emissary</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Dalinar, Champion of Honor</name>
+  <text>Legendary creatures you control get +X/+X, where X is the number of legendary creatures you control.
+Whenever you cast a legendary spell from your hand, exile cards from the top of your library until you exile a legendary nonland card with lesser mana value. You may cast that card without paying its mana cost. Put the rest on the bottom of your library in a random order.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Legendary Creature — Human Noble Radiant</type>
+    <maintype>Legendary Creature — Human Noble Radiant</maintype>
+    <manacost>{W}{U}{B}{R}{G}</manacost>
+    <cmc>5</cmc>
+    <colors>WUBRG</colors>
+    <coloridentity>WUBRG</coloridentity>
+    <pt>5/5</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Jodah,%20the%20Unifier.jpg?raw=true">PIM1</set>
+  <related>Jodah, the Unifier</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>The Designs of Odium</name>
+  <text>Return target nonland permanent you don't control to its owner's hand.
+Overload {6}{U} (You may cast this spell for its overload cost. If you do, change "target" in its text to "each.")</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Instant</type>
+    <maintype>Instant</maintype>
+    <manacost>{1}{U}</manacost>
+    <cmc>2</cmc>
+    <colors>U</colors>
+    <coloridentity>U</coloridentity>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Cyclonic%20Rift.jpg?raw=true">PIM1</set>
+  <related>Cyclonic Rift</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Creation of Roshar</name>
+  <text>Search your library for a Forest card, put it onto the battlefield, then shuffle.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Sorcery</type>
+    <maintype>Sorcery</maintype>
+    <manacost>{1}{G}</manacost>
+    <cmc>2</cmc>
+    <colors>G</colors>
+    <coloridentity>G</coloridentity>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Three%20Visits.jpeg?raw=true">PIM1</set>
+  <related>Three Visits</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Bridge Four!</name>
+  <text>Create X 2/2 red Human Windrunner Acolyte creature tokens with trample and haste.
+Whenever one or more creatures you control deal combat damage to one or more players this turn, you become the monarch.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Sorcery</type>
+    <maintype>Sorcery</maintype>
+    <manacost>{X}{R}{W}</manacost>
+    <cmc>2</cmc>
+    <colors>WR</colors>
+    <coloridentity>WR</coloridentity>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Forth%20Eorlingas!.jpg?raw=true">PIM1</set>
+  <related>Forth Eorlingas!</related>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Cloaked in Mist</name>
+  <text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Any number of target nonland permanents you control phase out. (Treat them and anything attached to them as though they don't exist until your next turn.)</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Instant</type>
+    <maintype>Instant</maintype>
+    <manacost>{2}{W}{W}</manacost>
+    <cmc>4</cmc>
+    <colors>W</colors>
+    <coloridentity>W</coloridentity>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Clever%20Concealment.jpg?raw=true">PIM1</set>
+  <related>Clever Concealment</related>
+  <tablerow>3</tablerow>
+</card>
+
 </cards>
 
 </cockatrice_carddatabase>
