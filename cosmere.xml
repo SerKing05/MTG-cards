@@ -1364,6 +1364,24 @@ Overload {4}{W}{W} (You may cast this spell for its overload cost. If you do, ch
   <tablerow>1</tablerow>
 </card>
 
+card>
+  <name>Cobalt Guard</name>
+  <text></text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature Token — Human Mercenary</type>
+    <maintype>Creature Token— Human Mercenary</maintype>
+    <coloridentity>W</coloridentity>
+    <pt>1/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Arleon%20soldier.png?raw=true">PIM1</set>
+  <related>Mercenary</related>
+  <token>1</token>
+  <tablerow>3</tablerow>
+</card>
+
 </cards>
 
 </cockatrice_carddatabase>

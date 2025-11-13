@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  
+<sets>
+<set>
+  <name>PIM1</name>
+  <longname>cosmere comander deck</longname>
+  <settype>Custom</settype>
+ </set>
+</sets>
+  
+  <cards>
+  <card>
+  <name>Hoid, Bard of the Cosmere</name>
+  <text>{R}: All creatures gain trample and haste until end of turn.
+{1}{G}: Put a +1/+1 counter on target creature.
+{2}{W}: Target player gains 5 life.
+{3}{U}: Target player draws a card.
+{4}{B}: Put target creature card from a graveyard onto the battlefield under its owner’s control.</text>
+  <prop>
+    <type>Legendary Creature Human Bard Demigod</type>
+    <maintype>Creature</maintype>
+    <manacost>4W</manacost>
+    <cmc>5</cmc>
+    <colors>W</colors>
+    <coloridentity>WUBRG</coloridentity>
+    <pt>5/5</pt>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Kenrith,%20the%20Returned%20King.jpg?raw=true">PIM1</set>
+  <related>Kenrith, the Returned King</related>
+  <tablerow>2</tablerow>
+  </card>
