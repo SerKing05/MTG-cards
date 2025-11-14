@@ -234,8 +234,7 @@ Whenever you cast a creature spell, create a 1/1 red Arleon Soldier creature tok
     <loyalty>4</loyalty>
   </prop>
   <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Selvala,%20Eager%20Trailblazer.jpg?raw=true">PIM1</set>
-  <related>Selvala, Eager Trailblazer
-  Arelon Soldier</related>
+  <related>Arelon Soldier</related>
   <tablerow>3</tablerow>
 </card>
 
@@ -424,7 +423,8 @@ Whenever you attack, for each opponent, create a 1/1 white Cobalt Guard creature
     <loyalty>4</loyalty>
   </prop>
   <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Adeline,%20Resplendent%20Cathar.jpg?raw=true">PIM1</set>
-  <related>Adeline, Resplendent Cathar</related>
+<related>Cobalt Guard</related>
+<related>Adeline, Resplendent Cathar</related>
   <tablerow>3</tablerow>
 </card>
 
@@ -1074,7 +1074,7 @@ Creatures you control gain indestructible until end of turn.</text>
     <loyalty>4</loyalty>
   </prop>
   <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Swan%20Song.jpg?raw=true">PIM1</set>
-  <related>Swan Song</related>
+  <related>"Chicken"</related>
   <tablerow>3</tablerow>
 </card>
 
@@ -1364,7 +1364,7 @@ Overload {4}{W}{W} (You may cast this spell for its overload cost. If you do, ch
   <tablerow>1</tablerow>
 </card>
 
-card>
+<card>
   <name>Cobalt Guard</name>
   <text></text>
   <prop>
@@ -1376,11 +1376,30 @@ card>
     <pt>1/1</pt>
     <loyalty>4</loyalty>
   </prop>
-  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Arleon%20soldier.png?raw=true">PIM1</set>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere%20tokens/1759299352895458.png?raw=true">PIM1</set>
   <related>Mercenary</related>
   <token>1</token>
   <tablerow>3</tablerow>
 </card>
+
+<card>
+  <name>"Chicken"</name>
+  <text>Flying</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature Token — Bird</type>
+    <maintype>Creature Token— Bird</maintype>
+    <coloridentity>W</coloridentity>
+    <pt>2/2</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere%20tokens/1759252697276170%20(2).png?raw=true">PIM1</set>
+  <related>Bird Token</related>
+  <token>1</token>
+  <tablerow>3</tablerow>
+</card>
+
 
 </cards>
 
