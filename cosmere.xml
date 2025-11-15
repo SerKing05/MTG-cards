@@ -447,6 +447,7 @@ Sacrifice Boromir: Creatures you control gain indestructible until end of turn. 
   </prop>
   <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Boromir,%20Warden%20of%20the%20Tower.jpg?raw=true">PIM1</set>
   <related>Boromir, Warden of the Tower</related>
+  <related>Nightblood</related>
   <tablerow>3</tablerow>
 </card>
 
@@ -1351,20 +1352,6 @@ Overload {4}{W}{W} (You may cast this spell for its overload cost. If you do, ch
 </card>
 
 <card>
-  <name>Nightblood</name>
-  <text></text>
-  <prop>
-    <layout>normal</layout>
-    <side>front</side>
-    <type>Emblem</type>
-    <maintype>Emblem</maintype>
-  </prop>
-  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere/Marsh%20Goblins.jpg?raw=true">PIM1</set>
-  <related>The Ring Tempts You</related>
-  <tablerow>1</tablerow>
-</card>
-
-<card>
   <name>Cobalt Guard</name>
   <text></text>
   <prop>
@@ -1400,6 +1387,67 @@ Overload {4}{W}{W} (You may cast this spell for its overload cost. If you do, ch
   <tablerow>3</tablerow>
 </card>
 
+<card>
+  <name>Nightblood</name>
+  <text>Your Nightblood-bearer is legendary and can’t be blocked by creatures with greater power.
+Whenever your Nightblood-bearer attacks, draw a card, then discard a card.
+Whenever your Nightblood-bearer becomes blocked by a creature, that creature’s controller sacrifices it at end of combat.
+Whenever your Nightblood-bearer deals combat damage to a player, each opponent loses 3 life.
+
+As the Nightblood tempts you, you get an emblem named The Nightblood if you don’t have one. Then your emblem gains its next ability and you choose a creature you control to become or remain your Ring-bearer.
+• The Nightblood can tempt you even if you don’t control a creature.
+• The Nightblood gains its abilities in order from top to bottom. Once it gains an ability, it has that ability for the rest of the game.
+• Each time the Nightblood tempts you, you must choose a creature if you control one.
+• Each player can have only one emblem named The Nightblood and only one Ring-bearer at a time.</text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Emblem</type>
+    <maintype>Emblem</maintype>
+    <coloridentity></coloridentity>
+    <pt></pt>
+    <loyalty></loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere%20tokens/nightblood.png?raw=true">PIM1</set>
+  <related>The Ring Tempts You</related>
+  <tablerow>1</tablerow>
+</card>
+
+<card>
+  <name>Alethi Soldier</name>
+  <text></text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature Token — Human Soldier</type>
+    <maintype>Creature Human Soldier</maintype>
+    <coloridentity>W</coloridentity>
+    <pt>1/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere%20tokens/alethi.png?raw=true">PIM1</set>
+  <related>Human Soldier Token</related>
+  <token>1</token>
+  <tablerow>3</tablerow>
+</card>
+
+<card>
+  <name>Knight Radiant</name>
+  <text></text>
+  <prop>
+    <layout>normal</layout>
+    <side>front</side>
+    <type>Creature Token — Human Soldier</type>
+    <maintype>Creature Human Soldier</maintype>
+    <coloridentity>W</coloridentity>
+    <pt>1/1</pt>
+    <loyalty>4</loyalty>
+  </prop>
+  <set picurl="https://github.com/SerKing05/MTG-cards/blob/main/cosmere%20tokens/alethi.png?raw=true">PIM1</set>
+  <related>Human Soldier Token</related>
+  <token>1</token>
+  <tablerow>3</tablerow>
+</card>
 
 </cards>
 
